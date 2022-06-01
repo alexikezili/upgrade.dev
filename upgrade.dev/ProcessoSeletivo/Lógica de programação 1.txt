@@ -1,0 +1,6 @@
+Linguagem de programação pode ser interpretada ou compilada.
+Código binário do Java é o Bytecode Java.
+JVM executa o Bytecode Java.
+JVM = Java Virtual Machine
+JRE = Java Runtime Environment
+JDK = Java Development Kit
